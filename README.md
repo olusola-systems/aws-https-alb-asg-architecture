@@ -8,7 +8,7 @@ The system is designed to automatically provision, distribute, and manage traffi
 ---
 
 ## Architecture Flow
-Internet → HTTPS (ALB) → Auto Scaling Group → EC2 Instances
+<img width="2880" height="1800" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/bdec2676-ca68-4ff1-8deb-4093b354e1a8" />
 
 ---
 
@@ -84,22 +84,19 @@ I will add Monitoring , Alerts and  Dynamic Scaling. This will allow the archite
 1. Final Website (HTTPS)
 <img width="2880" height="1800" alt="1 Final Website" src="https://github.com/user-attachments/assets/2505750b-85e0-49cd-9622-b8688e866ca0" />
 
-2. Architecture Diagram
-<img width="2880" height="1800" alt="2 Architecture Diagram" src="https://github.com/user-attachments/assets/d1f27e71-f9e7-4330-8fd8-e5e7132ced6a" />
-
-3. ALB Listeners
+2. ALB Listeners
 <img width="2880" height="1800" alt="3 ALB listeners" src="https://github.com/user-attachments/assets/c9cc0b88-0d4d-49b4-ba3f-32c47464d8cf" />
 
-4. Target Group
+3. Target Group
 <img width="2880" height="1800" alt="4 Target Group" src="https://github.com/user-attachments/assets/f472e632-aaa6-4301-b8b4-65d6d6874419" />
 
-5. EC2 instances by Auto Scaling Group
+4. EC2 instances by Auto Scaling Group
 <img width="2880" height="1800" alt="5 ASG Running Instances" src="https://github.com/user-attachments/assets/142a0af6-e493-46ef-9185-979dbdc5cd64" />
 
-6. ACM Certificate
+5. ACM Certificate
 <img width="2880" height="1800" alt="6 ACM Certificate" src="https://github.com/user-attachments/assets/a91efd27-e047-45cc-b017-d487712cd9fd" />
 
-7. Route 53
+6. Route 53
 <img width="2880" height="1800" alt="7 Route 53" src="https://github.com/user-attachments/assets/eb65c740-24e9-4a9a-bdac-f1dad79c0a56" />
 
 ---
