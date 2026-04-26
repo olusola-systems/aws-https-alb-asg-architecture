@@ -85,19 +85,19 @@ I will add Monitoring , Alerts and  Dynamic Scaling. This will allow the archite
 <img width="2880" height="1800" alt="1 Final Website" src="https://github.com/user-attachments/assets/2505750b-85e0-49cd-9622-b8688e866ca0" />
 
 2. ALB Listeners
-<img width="2880" height="1800" alt="3 ALB listeners" src="https://github.com/user-attachments/assets/c9cc0b88-0d4d-49b4-ba3f-32c47464d8cf" />
+<img width="2880" height="1800" alt="ALB listeners" src="https://github.com/user-attachments/assets/fe0a6537-63ef-43b4-99e7-2da4aba50f32" />
 
 3. Target Group
-<img width="2880" height="1800" alt="4 Target Group" src="https://github.com/user-attachments/assets/f472e632-aaa6-4301-b8b4-65d6d6874419" />
+<img width="2880" height="1800" alt="Target Group" src="https://github.com/user-attachments/assets/54ef1e4e-6a58-4c6b-9817-c96fe77c6c3e" />
 
 4. EC2 instances by Auto Scaling Group
-<img width="2880" height="1800" alt="5 ASG Running Instances" src="https://github.com/user-attachments/assets/142a0af6-e493-46ef-9185-979dbdc5cd64" />
+<img width="2880" height="1800" alt="ASG Running Instances" src="https://github.com/user-attachments/assets/dbd21d8f-be89-4331-9aac-149d4b342625" />
 
 5. ACM Certificate
-<img width="2880" height="1800" alt="6 ACM Certificate" src="https://github.com/user-attachments/assets/a91efd27-e047-45cc-b017-d487712cd9fd" />
+<img width="2880" height="1800" alt="ACM Certificate" src="https://github.com/user-attachments/assets/a0f374c6-46e3-47ce-900f-d1402273dea4" />
 
 6. Route 53
-<img width="2880" height="1800" alt="7 Route 53" src="https://github.com/user-attachments/assets/eb65c740-24e9-4a9a-bdac-f1dad79c0a56" />
+<img width="2880" height="1800" alt="Route 53" src="https://github.com/user-attachments/assets/5f78c045-cbc1-4e0c-99f2-b4abba9dd819" />
 
 ---
 
